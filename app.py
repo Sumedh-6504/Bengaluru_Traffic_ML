@@ -17,7 +17,7 @@ st.set_page_config(
 # --- 2. LOAD ARTIFACTS ---
 @st.cache_resource
 def load_artifacts():
-    base_path = 'eda_and_model/models/saved_models/'
+    base_path = 'eda_and_models/models/saved_models/'
     vol_model = joblib.load(base_path + 'xgb_volume_model.joblib')
     cong_model = joblib.load(base_path + 'xgb_congestion_model.joblib')
     le_area = joblib.load(base_path + 'le_area.joblib')
