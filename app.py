@@ -17,7 +17,7 @@ st.set_page_config(
 # --- 2. LOAD ARTIFACTS ---
 @st.cache_resource
 def load_artifacts():
-    base_path = 'D:/Temp/Bengaluru_Traffic_ML/.venv/eda_and_model/models/saved_models/'
+    base_path = 'models/saved_models/'
     vol_model = joblib.load(base_path + 'xgb_volume_model.joblib')
     cong_model = joblib.load(base_path + 'xgb_congestion_model.joblib')
     le_area = joblib.load(base_path + 'le_area.joblib')
@@ -35,7 +35,7 @@ except Exception as e:
 # --- 3. LOAD HISTORY ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv('D:/Temp/Bengaluru_Traffic_ML/.venv/data/processed/traffic_ml_ready.csv')
+    df = pd.read_csv('data/processed/traffic_ml_ready.csv')
     df['Date'] = pd.to_datetime(df['Date'])
     rename_map = {'Area_ID': 'Area ID'}
     df.rename(columns=rename_map, inplace=True)
@@ -269,4 +269,5 @@ else:
     st.info("👈 Select a date and location from the sidebar, then click 'Analyze Traffic Scenario'.")
     st.image(
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bangalore_Traffic.jpg/640px-Bangalore_Traffic.jpg",
+
         caption="Bangalore Traffic Analytics")
