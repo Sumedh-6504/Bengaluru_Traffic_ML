@@ -1,9 +1,16 @@
 # 🚦 Bengaluru Traffic Predictor AI
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bengaluru-traffic.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Framework](https://img.shields.io/badge/Streamlit-1.31-red)
 ![ML](https://img.shields.io/badge/XGBoost-Regression-orange)
 ![Status](https://img.shields.io/badge/Maintained-Yes-green)
+
+### 🚀 **[Click Here to Open Live App](https://bengaluru-traffic.streamlit.app/)**
+
+A comprehensive Machine Learning solution to predict **Traffic Volume** and **Congestion Levels** across major Bengaluru junctions. This project moves beyond simple analysis to provide an **End-to-End deployment** using XGBoost time-series forecasting and a Streamlit interactive dashboard.
+
+---
 
 ### 🚀 Live Traffic Intelligence Dashboard
 A comprehensive Machine Learning solution to predict **Traffic Volume** and **Congestion Levels** across major Bengaluru junctions. This project moves beyond simple analysis to provide an **End-to-End deployment** using XGBoost time-series forecasting and a Streamlit interactive dashboard.
