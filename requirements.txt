@@ -94,7 +94,6 @@ pyparsing==3.3.1
 python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
 pytz==2025.2
-pywinpty==3.0.2
 pyyaml==6.0.3
 pyzmq==27.1.0
 referencing==0.37.0
@@ -133,3 +132,4 @@ websocket-client==1.9.0
 widgetsnbextension==4.0.15
 xgboost==3.1.2
 xyzservices==2025.11.0
+
