@@ -41,7 +41,7 @@ Bangalore is known for its unpredictable traffic. This project aims to solve the
 
 ## 📂 Project Structure
 ```text
-Bengaluru_Traffic_ML/.venv                   
+Bengaluru_Traffic_ML/                   
 ├── data/
 │   ├── raw/                 # Original Dataset
 │   └── processed/           # Feature Engineered Data 
