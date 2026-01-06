@@ -34,11 +34,10 @@ Bangalore is known for its unpredictable traffic. This project aims to solve the
 
 ## 📂 Project Structure
 ```text
-Bengaluru_Traffic_ML/
-├── .venv/                   # Virtual Environment (Ignored)
+Bengaluru_Traffic_ML/.venv                   
 ├── data/
 │   ├── raw/                 # Original Dataset
-│   └── processed/           # Feature Engineered Data (with Lags)
+│   └── processed/           # Feature Engineered Data 
 ├── eda_and_model/
 │   ├── models/saved_models/ # Serialized Artifacts (.joblib)
 │   └── bengaluru-traffic.ipynb # Training & Tuning Notebook
