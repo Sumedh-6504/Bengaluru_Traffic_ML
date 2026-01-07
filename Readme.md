@@ -8,9 +8,9 @@
 
 ### 🚀 **[Click Here to Open Live App](https://bengaluru-traffic.streamlit.app/)**
 
-<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/01f26b4f-0206-468b-959a-0adacfe8101c" />
+<img width="1919" height="400" alt="image" src="https://github.com/user-attachments/assets/01f26b4f-0206-468b-959a-0adacfe8101c" />
 
-###*Select a date and location from the sidebar, then click 'Analyze Traffic Scenario'.*
+###Select a date and location from the sidebar, then click 'Analyze Traffic Scenario'.
 
 ##**Simple Example**
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/007945ea-0b84-492b-a9a8-2cb83f76e3c2" />
