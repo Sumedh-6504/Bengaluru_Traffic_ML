@@ -10,10 +10,9 @@
 
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/01f26b4f-0206-468b-959a-0adacfe8101c" />
 
-**Select a date and location from the sidebar, then click 'Analyze Traffic Scenario'.**
-<img width="328" height="927" alt="image" src="https://github.com/user-attachments/assets/27f4eee1-36dc-4565-8164-a6fb78f63f6f" />
+###*Select a date and location from the sidebar, then click 'Analyze Traffic Scenario'.*
 
-**Simple Example**
+##**Simple Example**
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/007945ea-0b84-492b-a9a8-2cb83f76e3c2" />
 
 
