@@ -8,6 +8,15 @@
 
 ### 🚀 **[Click Here to Open Live App](https://bengaluru-traffic.streamlit.app/)**
 
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/01f26b4f-0206-468b-959a-0adacfe8101c" />
+
+**Select a date and location from the sidebar, then click 'Analyze Traffic Scenario'.**
+<img width="328" height="927" alt="image" src="https://github.com/user-attachments/assets/27f4eee1-36dc-4565-8164-a6fb78f63f6f" />
+
+**Simple Example**
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/007945ea-0b84-492b-a9a8-2cb83f76e3c2" />
+
+
 A comprehensive Machine Learning solution to predict **Traffic Volume** and **Congestion Levels** across major Bengaluru junctions. This project moves beyond simple analysis to provide an **End-to-End deployment** using XGBoost time-series forecasting and a Streamlit interactive dashboard.
 
 ---
@@ -37,6 +46,11 @@ Bangalore is known for its unpredictable traffic. This project aims to solve the
 *   **Deployment:** Streamlit (Web App)
 *   **Persistence:** Joblib (Model Serialization)
 
+**Traffic Volume Model Accuracy**
+<img width="1258" height="529" alt="image" src="https://github.com/user-attachments/assets/821e584a-87b1-4c7f-afe0-38c551e1465d" />
+
+**Congestion Level Model Accuracy**
+<img width="1221" height="529" alt="image" src="https://github.com/user-attachments/assets/ab87fa7f-0fac-4d0e-83fc-b01c83707c71" />
 ---
 
 ## 📂 Project Structure
